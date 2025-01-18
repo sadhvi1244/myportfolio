@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+  span {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+
+    a {
+      margin: 0;
+
+      img {
+        width: 30px;
+      }
+    }
+  }
+  p {
+    font-size: 16px;
+    color: var(--footer-text-color);
+  }
+}
