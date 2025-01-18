@@ -20,12 +20,12 @@ A professional and visually appealing portfolio website built using React.js, sh
 
 ## Screenshots
 
-![App Screenshot](https://github.com/sadhvi1244/2rism/blob/main/ProjectScreenshots/Screenshot%202025-01-18%20184851.png?raw=true)
-![App Screenshot](https://github.com/sadhvi1244/2rism/blob/main/ProjectScreenshots/Screenshot%202025-01-18%20184904.png?raw=true)
-![App Screenshot](https://github.com/sadhvi1244/2rism/blob/main/ProjectScreenshots/Screenshot%202025-01-18%20184939.png?raw=true)
-![App Screenshot](https://github.com/sadhvi1244/2rism/blob/main/ProjectScreenshots/Screenshot%202025-01-18%20184953.png?raw=true)
-![App Screenshot](https://github.com/sadhvi1244/2rism/blob/main/ProjectScreenshots/Screenshot%202025-01-18%20185005.png?raw=true)
-![App Screenshot](https://github.com/sadhvi1244/2rism/blob/main/ProjectScreenshots/Screenshot%202025-01-18%20185022.png?raw=true)
+![App Screenshot](https://github.com/sadhvi1244/myportfolio/blob/main/ProjectScreenshots/Screenshot%202025-01-18%20194759.png?raw=true)
+![App Screenshot](https://github.com/sadhvi1244/myportfolio/blob/main/ProjectScreenshots/Screenshot%202025-01-18%20194823.png?raw=true)
+![App Screenshot](https://github.com/sadhvi1244/myportfolio/blob/main/ProjectScreenshots/Screenshot%202025-01-18%20194840.png?raw=true)
+![App Screenshot](https://github.com/sadhvi1244/myportfolio/blob/main/ProjectScreenshots/Screenshot%202025-01-18%20194856.png?raw=true)
+![App Screenshot](https://github.com/sadhvi1244/myportfolio/blob/main/ProjectScreenshots/Screenshot%202025-01-18%20194918.png?raw=true)
+
 
 
 ## 🚀 About Me
